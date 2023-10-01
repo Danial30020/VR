@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+header{
+    width: 100%;
+    background-color:white ;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    height: 100px;
+    padding: 25px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.header_btn_container{
+    display: flex;
+    align-items: center;
+}
+.product_btn{
+    display: flex;
+    align-items: center;
+}
