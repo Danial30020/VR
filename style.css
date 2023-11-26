@@ -447,3 +447,7 @@ font-weight: 400;
 line-height: normal;
 
 }
+.button_help{
+  text-decoration: none;
+  color: #000;
+}
